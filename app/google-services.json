@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473249241778",
+    "project_id": "gellaba",
+    "storage_bucket": "gellaba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473249241778:android:285b084676b144274d07ab",
+        "android_client_info": {
+          "package_name": "com.t.gellaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473249241778-s7hmgmh3dgep5moeuv46o5re7a1844bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD01Q-kaGTLYmq2LG_tmxR0gbhZX9kGt7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473249241778-s7hmgmh3dgep5moeuv46o5re7a1844bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
